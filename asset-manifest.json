@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/datn_test/static/css/main.b66eb680.chunk.css",
-    "main.js": "/datn_test/static/js/main.073d5e25.chunk.js",
-    "main.js.map": "/datn_test/static/js/main.073d5e25.chunk.js.map",
+    "main.js": "/datn_test/static/js/main.d03eb73c.chunk.js",
+    "main.js.map": "/datn_test/static/js/main.d03eb73c.chunk.js.map",
     "runtime~main.js": "/datn_test/static/js/runtime~main.abd9a2c4.js",
     "runtime~main.js.map": "/datn_test/static/js/runtime~main.abd9a2c4.js.map",
     "static/js/2.3b1d66cc.chunk.js": "/datn_test/static/js/2.3b1d66cc.chunk.js",
     "static/js/2.3b1d66cc.chunk.js.map": "/datn_test/static/js/2.3b1d66cc.chunk.js.map",
     "index.html": "/datn_test/index.html",
-    "precache-manifest.09d3a3f47379bf4e28338ffccbe56443.js": "/datn_test/precache-manifest.09d3a3f47379bf4e28338ffccbe56443.js",
+    "precache-manifest.877feaed4b5809154c93db19fa800426.js": "/datn_test/precache-manifest.877feaed4b5809154c93db19fa800426.js",
     "service-worker.js": "/datn_test/service-worker.js",
     "static/css/main.b66eb680.chunk.css.map": "/datn_test/static/css/main.b66eb680.chunk.css.map"
   }
