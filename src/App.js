@@ -12,9 +12,9 @@ class App extends Component {
         <div className="App" >
           <Navbar></Navbar>
           <Switch>
-            <Route exact path='/' component = {GroupList} />
-            <Route exact path='/group/:id' component = {GroupDetails} />
-            <Route path='/group/:id/add' component = {AddMember} />
+            <Route exact path='/' component={GroupList} />
+            <Route exact path='/group/:id' component={GroupDetails} />
+            <Route path='/group/:id/add' component={AddMember} />
           </Switch>
         </div>
       </Router>

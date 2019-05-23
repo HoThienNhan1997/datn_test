@@ -1,0 +1,13 @@
+// Navbar
+.nav-wrapper {
+  margin-bottom: 32px;
+  .brand-logo {
+    text-decoration: none;
+    font-weight: bold;
+  }
+
+  ul li a:hover {
+    text-decoration: none;
+    color: white;
+  }
+}
